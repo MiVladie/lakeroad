@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lakeroad/static/css/main.96b2ba8c.chunk.css",
+    "main.js": "/lakeroad/static/js/main.6450da75.chunk.js",
+    "main.js.map": "/lakeroad/static/js/main.6450da75.chunk.js.map",
+    "runtime~main.js": "/lakeroad/static/js/runtime~main.ab737fa1.js",
+    "runtime~main.js.map": "/lakeroad/static/js/runtime~main.ab737fa1.js.map",
+    "static/js/2.c9f37f2d.chunk.js": "/lakeroad/static/js/2.c9f37f2d.chunk.js",
+    "static/js/2.c9f37f2d.chunk.js.map": "/lakeroad/static/js/2.c9f37f2d.chunk.js.map",
+    "index.html": "/lakeroad/index.html",
+    "precache-manifest.624bfa1c0649654513b7d1922cf08c43.js": "/lakeroad/precache-manifest.624bfa1c0649654513b7d1922cf08c43.js",
+    "service-worker.js": "/lakeroad/service-worker.js",
+    "static/css/main.96b2ba8c.chunk.css.map": "/lakeroad/static/css/main.96b2ba8c.chunk.css.map",
+    "static/media/audience.jpg": "/lakeroad/static/media/audience.5b66a1e0.jpg",
+    "static/media/audio-mixer.jpg": "/lakeroad/static/media/audio-mixer.d8931428.jpg",
+    "static/media/background-image.jpg": "/lakeroad/static/media/background-image.28d41fcc.jpg",
+    "static/media/facebook.png": "/lakeroad/static/media/facebook.32e800bc.png",
+    "static/media/instagram.png": "/lakeroad/static/media/instagram.b6175365.png",
+    "static/media/soundcloud.png": "/lakeroad/static/media/soundcloud.7dac9d72.png",
+    "static/media/twitter.png": "/lakeroad/static/media/twitter.368c1f71.png"
+  }
+}
