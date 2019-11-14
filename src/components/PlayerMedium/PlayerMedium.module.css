@@ -1,0 +1,118 @@
+.Player {
+    position: relative;
+    margin-bottom: 40px;
+}
+
+.Video {
+    width: 70%;
+}
+
+.Description {
+    background-color: white;
+    width: 27%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Container {
+    width: 80%;
+    height: 85%;
+}
+
+.Container p, .Container a {
+    font-family: 'Fjalla One', sans-serif;
+    text-decoration: none;
+    text-shadow: 0px 3px 11px rgba(0, 0, 0, 0.22);
+    text-transform: uppercase;
+    display: block;
+}
+
+.Container .Name {
+    font-size: 2vw;
+}
+
+.Container .Author {
+    font-size: 1vw;
+    margin-top: 1vh;
+}
+
+.Container .Line {
+    border: 0.5px solid #707070;
+    width: 45%;
+    margin: 1.5vh auto;
+}
+
+.Container .Captions {
+    font-size: 0.75vw;
+}
+
+.Container .Listen {
+    font-size: 2vw;
+    margin: 2vh 0;
+}
+
+.Container a {
+    font-size: 1vw;
+    margin-bottom: 1vh;
+    color: #000830;
+}
+
+@media (max-width: 1024px) {
+    .Video {
+        width: 100%;
+    }
+
+    .Description {
+        width: 100%;
+        height: 75px;
+        position: relative;
+        margin-top: 15px;
+    }
+        
+    .Container {
+        width: 100%;
+        height: 100%;
+        
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .Container .Name {
+        font-size: calc(1.5em + 1vw);
+        margin-left: 20px;
+        width: 70%;
+    }
+
+    .Container .Author {
+        display: none;
+    }
+
+    .Container .Line {
+        display: none;
+    }
+
+    .Container .Captions {
+        font-size: 16px;
+        line-height: 20px;
+        letter-spacing: 1px;
+    
+        text-align: right;
+    
+        margin-right: 20px;
+        width: 30%;
+    }
+
+    .Container .Listen {
+        display: none;
+    }
+
+    .Container a {
+        display: none;
+    }
+}

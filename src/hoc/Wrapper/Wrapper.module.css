@@ -1,0 +1,11 @@
+.Wrapper {
+    margin: 0 auto;
+    width: 65vw;
+    min-height: calc(100vh - 150px);    
+}
+
+@media (max-width: 1024px) {
+    .Wrapper {
+        width: 100vw;
+    }
+}

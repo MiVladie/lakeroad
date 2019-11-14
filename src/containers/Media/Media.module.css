@@ -1,0 +1,73 @@
+.Media {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+.Media li {
+    background-color: white;
+    border-radius: 50%;
+
+    margin: 0 7px;
+    height: 32px;
+    width: 32px;
+
+    transition: all 0.1s;
+
+    position: relative;
+}
+
+.Media li:hover {
+    transform: scale(1.1);
+}
+
+.Media li:active {
+    background-color: rgb(222, 222, 222);
+    transform: scale(1);
+}
+
+.Media a {  
+    width: 100%;
+    height: 100%;
+
+    filter: brightness(0);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    transition: all 0.1s;
+}
+
+.Media a:hover {    
+    filter: brightness(1);
+}
+
+.Media li a div {
+    background-size: contain;    
+    background-repeat: no-repeat;
+    width: 55%;
+    height: 55%;
+}
+
+#Youtube {
+    background-image: url('../../assets/Images/Media/youtube.png');
+}
+
+#Soundcloud {
+    background-image: url('../../assets/Images/Media/soundcloud.png');
+}
+
+#Facebook {
+    background-image: url('../../assets/Images/Media/facebook.png');
+}
+
+#Twitter {
+    background-image: url('../../assets/Images/Media/twitter.png');
+}
+
+#Instagram {
+    background-image: url('../../assets/Images/Media/instagram.png');
+}

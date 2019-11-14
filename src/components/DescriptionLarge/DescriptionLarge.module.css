@@ -1,0 +1,80 @@
+.Large {
+    width: 100%;
+    margin-bottom: 40px;
+}
+
+.Large .Image {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+}
+
+.Large .Image img {
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    width: 67.5%;
+    height: 30vw;
+}
+
+.Description {
+    background-color: white;
+    width: 30%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+
+    text-align: center;
+}
+
+.Description h2 {
+    font-family: 'Fjalla One';
+    font-size: 2.2vw;
+    font-weight: 200;
+    text-transform: uppercase;
+
+    margin-top: 2vw;
+}
+
+.Description p {
+    font-family: 'Bahnschrift';
+    font-size: 0.95vw;
+    font-weight: 200;
+    letter-spacing: 1.5px;
+    line-height: 1.5vw;
+
+    margin: 1.25vw 1.25vw;
+}
+
+@media (max-width: 1024px) {    
+    .Large .Image {
+        display: block;
+    }
+    
+    .Large .Image img {    
+        width: 100%;
+        height: 100%;
+    }
+    
+    .Description {
+        width: 100%;
+        height: 37vh;
+        position: relative;    
+    }
+    
+    .Description h2 {
+        font-size: 5vh;    
+        padding-top: 20px;
+    }
+    
+    .Description p {
+        font-size: 3vw;
+        line-height: 5vw;  
+        width: 90%;
+        margin: 20px auto 0;
+    }
+}

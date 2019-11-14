@@ -1,0 +1,37 @@
+.Player {
+    margin-bottom: 40px;
+}
+
+.Description {
+    width: 100%;
+    height: 75px;
+    margin-top: 15px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Description p {
+    font-family: 'Fjalla One', sans-serif;
+    text-decoration: none;
+    text-shadow: 0px 3px 11px rgba(0, 0, 0, 0.22);
+    text-transform: uppercase;
+}
+
+.Name {    
+    font-size: calc(1.5em + 1vw);
+    margin-left: 20px;
+    width: 70%;
+}
+
+.Captions {
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 1px;
+
+    text-align: right;
+
+    margin-right: 20px;
+    width: 30%;
+}

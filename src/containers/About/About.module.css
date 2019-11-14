@@ -1,0 +1,18 @@
+.Band {
+    width: 100%;
+}
+
+.Band .Row_1, .Row_2 {    
+    display: flex;
+    align-items: center;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+.Band .Row_1 {    
+    justify-content: space-between;
+}
+
+.Band .Row_2 {    
+    justify-content: space-around;
+}
