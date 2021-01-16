@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/lakeroad/static/css/main.340d24c7.chunk.css",
-    "main.js": "/lakeroad/static/js/main.6f257e1b.chunk.js",
-    "main.js.map": "/lakeroad/static/js/main.6f257e1b.chunk.js.map",
-    "runtime~main.js": "/lakeroad/static/js/runtime~main.ab737fa1.js",
-    "runtime~main.js.map": "/lakeroad/static/js/runtime~main.ab737fa1.js.map",
-    "static/js/2.4ddf1fcf.chunk.js": "/lakeroad/static/js/2.4ddf1fcf.chunk.js",
-    "static/js/2.4ddf1fcf.chunk.js.map": "/lakeroad/static/js/2.4ddf1fcf.chunk.js.map",
+    "main.css": "/lakeroad/static/css/main.446aad00.chunk.css",
+    "main.js": "/lakeroad/static/js/main.ed689ea4.chunk.js",
+    "main.js.map": "/lakeroad/static/js/main.ed689ea4.chunk.js.map",
+    "runtime-main.js": "/lakeroad/static/js/runtime-main.ef366330.js",
+    "runtime-main.js.map": "/lakeroad/static/js/runtime-main.ef366330.js.map",
+    "static/js/2.c7d0eb70.chunk.js": "/lakeroad/static/js/2.c7d0eb70.chunk.js",
+    "static/js/2.c7d0eb70.chunk.js.map": "/lakeroad/static/js/2.c7d0eb70.chunk.js.map",
     "index.html": "/lakeroad/index.html",
-    "precache-manifest.93bf2fc7e55be76f76a993c936759535.js": "/lakeroad/precache-manifest.93bf2fc7e55be76f76a993c936759535.js",
-    "service-worker.js": "/lakeroad/service-worker.js",
-    "static/css/main.340d24c7.chunk.css.map": "/lakeroad/static/css/main.340d24c7.chunk.css.map",
-    "static/media/audience.jpg": "/lakeroad/static/media/audience.5b66a1e0.jpg",
-    "static/media/audio-mixer.jpg": "/lakeroad/static/media/audio-mixer.d8931428.jpg",
-    "static/media/background-image.jpg": "/lakeroad/static/media/background-image.447359af.jpg",
-    "static/media/facebook.png": "/lakeroad/static/media/facebook.32e800bc.png",
-    "static/media/instagram.png": "/lakeroad/static/media/instagram.b6175365.png",
-    "static/media/soundcloud.png": "/lakeroad/static/media/soundcloud.7dac9d72.png",
-    "static/media/twitter.png": "/lakeroad/static/media/twitter.368c1f71.png"
-  }
+    "static/css/main.446aad00.chunk.css.map": "/lakeroad/static/css/main.446aad00.chunk.css.map",
+    "static/js/2.c7d0eb70.chunk.js.LICENSE.txt": "/lakeroad/static/js/2.c7d0eb70.chunk.js.LICENSE.txt",
+    "static/media/audience.a30b1b04.jpg": "/lakeroad/static/media/audience.a30b1b04.jpg",
+    "static/media/audio-mixer.b45581f2.jpg": "/lakeroad/static/media/audio-mixer.b45581f2.jpg",
+    "static/media/Layout.module.css": "/lakeroad/static/media/background-image.7d47b97b.jpg",
+    "static/media/Media.module.css": "/lakeroad/static/media/twitter.06ed7e70.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef366330.js",
+    "static/js/2.c7d0eb70.chunk.js",
+    "static/css/main.446aad00.chunk.css",
+    "static/js/main.ed689ea4.chunk.js"
+  ]
 }
