@@ -8,21 +8,20 @@
     color: white;
     text-shadow: 0 3px 20px rgba(0, 0, 0, 0.22);
 
-    transition: all 0.25s;
+    transition: all 0.15s;
 
     position: relative;
 }
 
 .NavItem:hover {
-    color: rgb(255, 207, 207);
-    border-top: 3px solid rgb(255, 207, 207);
+    color: rgb(255, 129, 129);
     border-radius: 2px;
 }
 
 .NavItem:active,
 .NavItem.active {
-    color: rgb(255, 138, 138);
-    border-top: 3px solid rgb(255, 138, 138);
+    color: rgb(255, 40, 40);
+    border-top: 3px solid rgb(255, 40, 40);
 }
 
 

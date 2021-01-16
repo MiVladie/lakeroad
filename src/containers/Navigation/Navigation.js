@@ -3,8 +3,8 @@ import React, { Component } from 'react';
 import Logo from '../../components/Logo/Logo.js';
 import NavItem from './NavItem/NavItem.js';
 
-import menuIcon from '../../assets/Images/menu.png';
-import closeIcon from '../../assets/Images/close.png';
+import menuIcon from '../../assets/icons/menu.png';
+import closeIcon from '../../assets/icons/close.png';
 
 import classes from './Navigation.module.css';
 

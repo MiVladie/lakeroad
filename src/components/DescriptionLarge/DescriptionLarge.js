@@ -5,7 +5,7 @@ const descLarge = (props) => {
     return (
         <div className = { classes.Large }>
             <div className = { classes.Image }>
-                <img src = { require('../../assets/Images/' + props.src) } alt = { props.name } />
+                <img src = { props.image } alt = { props.name } />
                 <div className = { classes.Description }>                    
                     <h2>{ props.name }</h2>
                     <p>{ props.text }</p>
