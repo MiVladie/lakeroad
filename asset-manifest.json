@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lakeroad/static/css/main.4cb09e7d.chunk.css",
-    "main.js": "/lakeroad/static/js/main.b649418c.chunk.js",
-    "main.js.map": "/lakeroad/static/js/main.b649418c.chunk.js.map",
+    "main.js": "/lakeroad/static/js/main.f803688c.chunk.js",
+    "main.js.map": "/lakeroad/static/js/main.f803688c.chunk.js.map",
     "runtime-main.js": "/lakeroad/static/js/runtime-main.ef366330.js",
     "runtime-main.js.map": "/lakeroad/static/js/runtime-main.ef366330.js.map",
-    "static/js/2.c7d0eb70.chunk.js": "/lakeroad/static/js/2.c7d0eb70.chunk.js",
-    "static/js/2.c7d0eb70.chunk.js.map": "/lakeroad/static/js/2.c7d0eb70.chunk.js.map",
+    "static/js/2.5c4bfc85.chunk.js": "/lakeroad/static/js/2.5c4bfc85.chunk.js",
+    "static/js/2.5c4bfc85.chunk.js.map": "/lakeroad/static/js/2.5c4bfc85.chunk.js.map",
     "index.html": "/lakeroad/index.html",
     "static/css/main.4cb09e7d.chunk.css.map": "/lakeroad/static/css/main.4cb09e7d.chunk.css.map",
-    "static/js/2.c7d0eb70.chunk.js.LICENSE.txt": "/lakeroad/static/js/2.c7d0eb70.chunk.js.LICENSE.txt",
+    "static/js/2.5c4bfc85.chunk.js.LICENSE.txt": "/lakeroad/static/js/2.5c4bfc85.chunk.js.LICENSE.txt",
     "static/media/audience.a30b1b04.jpg": "/lakeroad/static/media/audience.a30b1b04.jpg",
     "static/media/audio-mixer.b45581f2.jpg": "/lakeroad/static/media/audio-mixer.b45581f2.jpg",
     "static/media/Layout.module.css": "/lakeroad/static/media/background-image.7d47b97b.jpg",
@@ -17,8 +17,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ef366330.js",
-    "static/js/2.c7d0eb70.chunk.js",
+    "static/js/2.5c4bfc85.chunk.js",
     "static/css/main.4cb09e7d.chunk.css",
-    "static/js/main.b649418c.chunk.js"
+    "static/js/main.f803688c.chunk.js"
   ]
 }
